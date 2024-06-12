@@ -7,7 +7,10 @@
 
 ## Introduction
 
-Dans un monde où les réunions et les échanges professionnels sont de plus en plus nombreux, il est essentiel de disposer d'outils efficaces pour faciliter la prise de notes et la transcription de ces rencontres. C'est dans cette optique que nous avons développé notre site web de prise de notes automatique et de transcription de réunions AI. Ce projet innovant a pour objectif d'aider les utilisateurs à gagner du temps et à optimiser leur productivité en leur proposant des solutions de pointe.
+Dans un monde où les réunions et les échanges professionnels sont de plus en plus nombreux, il est essentiel de disposer d'outils efficaces pour faciliter la prise de notes et la transcription de ces rencontres. C'est dans cette optique que nous avons développé notre site web de prise de notes automatique et de transcription de réunions AI. 
+
+> [!NOTE]
+> Ce projet innovant a pour objectif d'aider les utilisateurs à gagner du temps et à optimiser leur productivité en leur proposant des solutions de pointe.
 
 La réussite de ce projet repose en grande partie sur la stack technique que nous avons soigneusement sélectionnée. En effet, le choix des technologies et des outils utilisés a un impact direct sur les performances, la fiabilité et la scalabilité du site web. Dans cet article, nous vous proposons un aperçu détaillé de la stack technique qui se cache derrière notre plateforme de prise de notes automatique et de transcription de réunions AI.
 
@@ -75,6 +78,27 @@ Au cœur de notre plateforme de prise de notes automatique et de transcription d
 * **Transcription précise et rapide** : AssemblyAI utilise des modèles d'apprentissage profond pour offrir une transcription de haute qualité, même dans des conditions de bruit ou avec des accents variés.
 * **Analyse et extraction d'informations** : AssemblyAI est capable d'identifier et d'extraire des éléments clés tels que les sujets abordés, les actions à entreprendre et les décisions prises lors des réunions, facilitant ainsi la recherche et la compréhension des contenus.
 * **Intégration aisée et API puissante** : AssemblyAI propose une API simple et bien documentée, ce qui permet de l'intégrer facilement à notre plateforme et de tirer parti de ses fonctionnalités avancées.
+
+```
+import assemblyai as aai
+
+aai.settings.api_key = "YOUR_API_KEY"
+
+transcriber = aai.Transcriber()
+
+audio_url = (
+    "https://storage.googleapis.com/aai-web-samples/5_common_sports_injuries.mp3"
+)
+
+config = aai.TranscriptionConfig(speaker_labels=True)
+
+transcript = transcriber.transcribe(audio_url, config)
+
+print(transcript.text)
+
+for utterance in transcript.utterances:
+    print(f"Speaker {utterance.speaker}: {utterance.text}")
+```
 
 **Comment AssemblyAI améliore l'expérience utilisateur sur le site web**
 
