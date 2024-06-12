@@ -1,5 +1,6 @@
 # visioinsights.ai
 [Prise de notes automatique et transcription de réunions de travail optimisées par l'intelligence artificielle.](https://www.visioinsights.ai)
+[Screenshot-2024-06-12-232345.png](https://postimg.cc/tn3cGhSX)
 
 ## Introduction
 
