@@ -21,6 +21,8 @@ Pour le développement de notre plateforme de prise de notes automatique et de t
 
 PHP est un langage de programmation côté serveur largement utilisé dans le développement web. Il est apprécié pour sa simplicité, sa flexibilité et sa compatibilité avec de nombreux systèmes d'exploitation et serveurs web. De plus, PHP dispose d'une vaste communauté et d'une multitude de ressources en ligne, ce qui facilite la résolution de problèmes et l'apprentissage de nouvelles fonctionnalités.
 
+[![Screenshot-2024-06-12-232727.png](https://i.postimg.cc/C5ZWF89M/Screenshot-2024-06-12-232727.png)](https://postimg.cc/q6TmwNkW)
+
 ### Pourquoi MariaDB ?
 
 MariaDB est un système de gestion de base de données relationnelle (SGBDR) open source, compatible avec MySQL. Il se distingue par ses performances élevées, sa fiabilité et sa sécurité renforcée. MariaDB est également doté d'une communauté active et d'un écosystème riche en outils et plugins, ce qui permet de l'adapter et de l'optimiser en fonction des besoins spécifiques de notre projet.
@@ -34,6 +36,8 @@ Pour accélérer et simplifier le développement de notre plateforme de prise de
 ### Présentation de Codehack PHP Scripts Bundle
 
 Codehack PHP Scripts Bundle est un ensemble de scripts et de composants PHP prêts à l'emploi, conçus pour faciliter et accélérer le développement d'applications web. Il fournit une structure de projet solide, des bibliothèques et des outils utiles, ainsi qu'une interface d'administristration intuitive pour gérer les différents aspects de l'application.
+
+[![Screenshot-2024-06-12-232855.png](https://i.postimg.cc/HsyfRQQB/Screenshot-2024-06-12-232855.png)](https://postimg.cc/WhsWJqYk)
 
 ### Avantages et fonctionnalités clés
 
@@ -59,9 +63,13 @@ Pour assurer une gestion efficace et sécurisée des paiements sur notre platefo
 * **Sécurité et conformité** : Stripe respecte les normes de sécurité les plus élevées, notamment la certification PCI-DSS, et met en œuvre des mesures de protection contre la fraude pour garantir la sécurité des données de paiement.
 * **Flexibilité et évolutivité** : Stripe prend en charge de nombreuses devises et méthodes de paiement, et propose des outils de gestion des abonnements et de facturation, ce qui permet à notre plateforme de s'adapter et de grandir en fonction des besoins.
 
+[![Screenshot-2024-06-12-233014.png](https://i.postimg.cc/cC8bqS8r/Screenshot-2024-06-12-233014.png)](https://postimg.cc/0KPfmhns)
+
 5. **AssemblyAI : la transcription et l'intelligence artificielle**
 
 Au cœur de notre plateforme de prise de notes automatique et de transcription de réunions AI se trouve AssemblyAI, un service de transcription et d'analyse de pointe basé sur l'intelligence artificielle. AssemblyAI nous permet de convertir avec précision les échanges verbaux lors des réunions en texte écrit, et d'extraire des informations clés pour faciliter la navigation et la compréhension des contenus.
+
+[![Screenshot-2024-06-12-233110.png](https://i.postimg.cc/Kc6Z1cfp/Screenshot-2024-06-12-233110.png)](https://postimg.cc/XXgMhbT9)
 
 **Avantages et fonctionnalités clés d'AssemblyAI**
 * **Transcription précise et rapide** : AssemblyAI utilise des modèles d'apprentissage profond pour offrir une transcription de haute qualité, même dans des conditions de bruit ou avec des accents variés.
@@ -75,6 +83,8 @@ En utilisant AssemblyAI pour la transcription et l'analyse des réunions, notre 
 6. **Recall.ai : l'enregistrement automatique des réunions**
 
 Pour offrir une expérience utilisateur complète et pratique sur notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons intégré Recall.ai. Il s'agit d'un service d'enregistrement automatique des réunions, qui permet aux utilisateurs de se concentrer sur leurs échanges et de disposer d'un enregistrement de qualité pour la transcription et la relecture.
+
+[![Screenshot-2024-06-12-233203.png](https://i.postimg.cc/0279DgHk/Screenshot-2024-06-12-233203.png)](https://postimg.cc/JG4wCFLv)
 
 **Avantages et fonctionnalités clés de Recall.ai**
 
