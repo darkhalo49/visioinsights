@@ -34,7 +34,7 @@ En combinant PHP et MariaDB, nous bénéficions d'une stack solide et éprouvée
 
 ## Codehack PHP Scripts Bundle : le framework idéal
 
-Pour accélérer et simplifier le développement de notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi d'utiliser le framework Codehack PHP Scripts Bundle. Ce framework PHP moderne et puissant offre de nombreux avantages et fonctionnalités clés qui en font le choix idéal pour notre projet.
+Pour accélérer et simplifier le développement de notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi d'utiliser le framework PHP de [Codehack](https://codeshack.io). Ce framework PHP moderne et puissant offre de nombreux avantages et fonctionnalités clés qui en font le choix idéal pour notre projet.
 
 ### Présentation de Codehack PHP Scripts Bundle
 
@@ -58,9 +58,9 @@ En utilisant Codehack PHP Scripts Bundle, nous bénéficions d'un ensemble d'out
 
 ## Stripe : la solution de paiement en ligne
 
-Pour assurer une gestion efficace et sécurisée des paiements sur notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi d'intégrer Stripe. Stripe est une solution de paiement en ligne reconnue pour sa fiabilité, sa simplicité d'utilisation et sa compatibilité avec de nombreuses devises et méthodes de paiement.
+Pour assurer une gestion efficace et sécurisée des paiements sur notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi d'intégrer [Stripe](https://stripe.com). Stripe est une solution de paiement en ligne reconnue pour sa fiabilité, sa simplicité d'utilisation et sa compatibilité avec de nombreuses devises et méthodes de paiement.
 
-### Avantages de Stripe pour les utilisateurs et le site web**
+### Avantages de Stripe pour les utilisateurs et le site web
 
 * **Expérience utilisateur fluide et rapide** : Stripe offre une interface de paiement intuitive et réactive, ce qui permet aux utilisateurs de finaliser leurs transactions en toute simplicité.
 * **Sécurité et conformité** : Stripe respecte les normes de sécurité les plus élevées, notamment la certification PCI-DSS, et met en œuvre des mesures de protection contre la fraude pour garantir la sécurité des données de paiement.
@@ -70,7 +70,7 @@ Pour assurer une gestion efficace et sécurisée des paiements sur notre platefo
 
 ## AssemblyAI : la transcription et l'intelligence artificielle
 
-Au cœur de notre plateforme de prise de notes automatique et de transcription de réunions AI se trouve AssemblyAI, un service de transcription et d'analyse de pointe basé sur l'intelligence artificielle. AssemblyAI nous permet de convertir avec précision les échanges verbaux lors des réunions en texte écrit, et d'extraire des informations clés pour faciliter la navigation et la compréhension des contenus.
+Au cœur de notre plateforme de prise de notes automatique et de transcription de réunions AI se trouve [AssemblyAI](https://www.assemblyai.com/), un service de transcription et d'analyse de pointe basé sur l'intelligence artificielle. AssemblyAI nous permet de convertir avec précision les échanges verbaux lors des réunions en texte écrit, et d'extraire des informations clés pour faciliter la navigation et la compréhension des contenus.
 
 [![Screenshot-2024-06-12-233110.png](https://i.postimg.cc/Kc6Z1cfp/Screenshot-2024-06-12-233110.png)](https://postimg.cc/XXgMhbT9)
 
@@ -106,7 +106,7 @@ En utilisant AssemblyAI pour la transcription et l'analyse des réunions, notre 
 
 ## Recall.ai : l'enregistrement automatique des réunions
 
-Pour offrir une expérience utilisateur complète et pratique sur notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons intégré Recall.ai. Il s'agit d'un service d'enregistrement automatique des réunions, qui permet aux utilisateurs de se concentrer sur leurs échanges et de disposer d'un enregistrement de qualité pour la transcription et la relecture.
+Pour offrir une expérience utilisateur complète et pratique sur notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons intégré [Recall.ai](https://www.recall.ai/). Il s'agit d'un service d'enregistrement automatique des réunions, qui permet aux utilisateurs de se concentrer sur leurs échanges et de disposer d'un enregistrement de qualité pour la transcription et la relecture.
 
 [![Screenshot-2024-06-12-233203.png](https://i.postimg.cc/0279DgHk/Screenshot-2024-06-12-233203.png)](https://postimg.cc/JG4wCFLv)
 
@@ -118,7 +118,7 @@ Pour offrir une expérience utilisateur complète et pratique sur notre platefor
 
 ## Vultr : l'infrastructure et le stockage
 
-Afin de garantir des performances optimales, une scalabilité aisée et une sécurité renforcée pour notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi Vultr comme fournisseur d'infrastructure et de stockage. Vultr est un fournisseur de services de cloud computing réputé pour sa fiabilité, sa rapidité et son large éventail de solutions.
+Afin de garantir des performances optimales, une scalabilité aisée et une sécurité renforcée pour notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi [Vultr](https://www.vultr.com) comme fournisseur d'infrastructure et de stockage. Vultr est un fournisseur de services de cloud computing réputé pour sa fiabilité, sa rapidité et son large éventail de solutions.
 
 ### Avantagesde Vultr pour la performance, la scalabilité et la sécurité du site web
 
@@ -129,6 +129,7 @@ Afin de garantir des performances optimales, une scalabilité aisée et une séc
 ### Comment Vultr S3 Storage est utilisé pour le stockage des fichiers audio et vidéo
 
 Vultr S3 Storage est une solution de stockage d'objets évolutive et fiable, compatible avec l'API Amazon S3. Nous utilisons Vultr S3 Storage pour stocker et gérer les fichiers audio et vidéo enregistrés lors des réunions sur notre plateforme de prise de notes automatique et de transcription de réunions AI. Cette solution de stockage nous permet de bénéficier d'une grande capacité de stockage, d'une récupération rapide des données et d'une sécurité accrue pour les fichiers multimédias de nos utilisateurs.
+![schéma s3](https://docs.vultr.com/public/doc-assets/legacy/8024/H8XJOlF.png)
 
 ## Conclusion
 
