@@ -1,4 +1,4 @@
-# visioinsights.ai
+# visioinsights.ai 👍
 [Prise de notes automatique et transcription de réunions de travail optimisées par l'intelligence artificielle.](https://www.visioinsights.ai)
 
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Dans un monde où les réunions et les échanges professionnels sont de plus en plus nombreux, il est essentiel de disposer d'outils efficaces pour faciliter la prise de notes et la transcription de ces rencontres. C'est dans cette optique que nous avons développé notre site web de prise de notes automatique et de transcription de réunions AI. 
+Dans un monde où les réunions et les échanges professionnels sont de plus en plus nombreux, il est essentiel de disposer d'outils efficaces pour faciliter la prise de notes et la transcription de ces rencontres. C'est dans cette optique que nous avons développé 💪 notre site web de prise de notes automatique et de transcription de réunions AI. 
 
 > [!NOTE]
 > Ce projet innovant a pour objectif d'aider les utilisateurs à gagner du temps et à optimiser leur productivité en leur proposant des solutions de pointe.
@@ -18,7 +18,7 @@ Au cours de notre présentation, nous aborderons les différents composants de n
 
 ## PHP et MariaDB : le duo de base
 
-Pour le développement de notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi d'utiliser PHP et MariaDB comme base technologique. Cette combinaison éprouvée et populaire offre de nombreux avantages qui ont motivé notre décision.
+Pour le développement de notre plateforme de prise de notes automatique et de transcription de réunions AI 🧠, nous avons choisi d'utiliser PHP et MariaDB comme base technologique. Cette combinaison éprouvée et populaire offre de nombreux avantages qui ont motivé notre décision.
 
 ### Pourquoi PHP ?
 
@@ -56,7 +56,7 @@ En utilisant Codehack PHP Scripts Bundle, nous bénéficions d'un ensemble d'out
 > [!TIP]
 > Pour ceux que ça interesse, au moment d'ecrire ces lignes, Codehack propose une remise sur son bundle : 119$ au lieu de 290$. https://codeshack.io/php-scripts-bundle/
 
-## Stripe : la solution de paiement en ligne
+## Stripe : la solution de paiement en ligne 💰
 
 Pour assurer une gestion efficace et sécurisée des paiements sur notre plateforme de prise de notes automatique et de transcription de réunions AI, nous avons choisi d'intégrer [Stripe](https://stripe.com). Stripe est une solution de paiement en ligne reconnue pour sa fiabilité, sa simplicité d'utilisation et sa compatibilité avec de nombreuses devises et méthodes de paiement.
 
@@ -70,7 +70,7 @@ Pour assurer une gestion efficace et sécurisée des paiements sur notre platefo
 
 ## AssemblyAI : la transcription et l'intelligence artificielle
 
-Au cœur de notre plateforme de prise de notes automatique et de transcription de réunions AI se trouve [AssemblyAI](https://www.assemblyai.com/), un service de transcription et d'analyse de pointe basé sur l'intelligence artificielle. AssemblyAI nous permet de convertir avec précision les échanges verbaux lors des réunions en texte écrit, et d'extraire des informations clés pour faciliter la navigation et la compréhension des contenus.
+Au cœur de notre plateforme de prise de notes automatique et de transcription de réunions AI se trouve [AssemblyAI](https://www.assemblyai.com/), un service de transcription et d'analyse de pointe basé sur l'intelligence artificielle 💻. AssemblyAI nous permet de convertir avec précision les échanges verbaux lors des réunions en texte écrit, et d'extraire des informations clés pour faciliter la navigation et la compréhension des contenus.
 
 [![Screenshot-2024-06-12-233110.png](https://i.postimg.cc/Kc6Z1cfp/Screenshot-2024-06-12-233110.png)](https://postimg.cc/XXgMhbT9)
 
@@ -133,8 +133,12 @@ Vultr S3 Storage est une solution de stockage d'objets évolutive et fiable, com
 
 ## Conclusion
 
-Dans cet article, nous avons présenté la stack technique utilisée pour le développement de notre site web de prise de notes automatique et transcription de réunions AI. Cette stack, composée de PHP et MariaDB, du framework Codehack PHP Scripts Bundle, de Stripe pour la gestion des paiements, d'AssemblyAI pour la transcription et l'intelligence artificielle, de Recall.ai pour l'enregistrement des réunions et de Vultr pour l'infrastructure et le stockage, a été soigneusement sélectionnée pour répondre aux besoins et aux exigences de notre projet.
+Dans cet article, nous avons présenté la stack technique utilisée pour le développement de notre site web de prise de [notes automatique et transcription de réunions AI](https://www.visioinsights.ai/fr). Cette stack, composée de PHP et MariaDB, du framework Codehack PHP Scripts Bundle, de Stripe pour la gestion des paiements, d'AssemblyAI pour la transcription et l'intelligence artificielle, de Recall.ai pour l'enregistrement des réunions et de Vultr pour l'infrastructure et le stockage, a été soigneusement sélectionnée pour répondre aux besoins et aux exigences de notre projet.
 
 Chaque composant de cette stack joue un rôle essentiel dans la réussite de notre site web, en contribuant à des performances optimales, une scalabilité aisée, une sécurité renforcée et une expérience utilisateur enrichie. En combinant ces technologies et outils de pointe, nous sommes en mesure de proposer une plateforme innovante et fiable pour la prise de notes automatique et la transcription de réunions.
 
-Nous vous invitons chaleureusement à découvrir notre site web et à bénéficier de ses fonctionnalités avancées pour optimiser la gestion de vos réunions et améliorer votre productivité. N'hésitez pas à nous faire part de vos retours et suggestions, car votre satisfaction est notre priorité absolue.
+> [!TIP]
+> Nous vous invitons chaleureusement à découvrir notre site web et à bénéficier de ses fonctionnalités avancées pour optimiser la gestion de vos réunions et améliorer votre productivité.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.N'hésitez pas à nous faire part de vos retours et suggestions, car votre satisfaction est notre priorité absolue.
